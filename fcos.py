@@ -1,4 +1,15 @@
 """
+FCOS: Fully-Convolutional One-Stage Object Detector
+
+This implementation is part of coursework for Stanford's CS231n: Convolutional Neural Networks for Visual Recognition. 
+It is based on the original FCOS paper: https://arxiv.org/abs/1904.01355.
+
+Author: Shanglin Yang
+Course: Stanford CS231n - Convolutional Neural Networks for Visual Recognition
+Date: April 2024
+"""
+
+"""
 This module contains classes and functions that are used for FCOS, a  one-stage 
 object detector. You have to implement the functions here -
 walk through the notebooks and you will find instructions on *when* to implement
